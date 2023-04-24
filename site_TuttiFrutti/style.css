@@ -1,0 +1,54 @@
+body{
+    background-color: #ffd9ff;
+}
+
+.titulo1{
+    font-family: Freestyle Script;
+    color:rgb(11, 11, 163);
+    text-align: center;
+    background-color: rgb(237, 255, 136);
+}
+
+.titulo1 h1{
+    font-size: 60px;
+}
+
+.titulo2{
+    background-color:rgb(237, 255, 136) ;
+    font-family: Futura Md BT;
+    text-align: center;
+}
+.titulo2 h2{
+    font-size: 20px;
+    color: #bb1152;
+}
+
+.roupasimg {
+    text-align:center;
+}
+
+.menubaixo a {
+    text-align:left;
+}
+
+.conhecainsta a {
+    color: rgb(11, 11, 163);
+    font-family: Freestyle Script;
+    font-size: 300%;
+}
+
+.conhecainsta h1 {
+    color: rgb(11, 11, 163);
+    font-family: Freestyle Script;
+    font-size: 300%;
+}
+.conhecainsta{
+    background-color: rgb(237, 255, 136);
+    text-align: center;
+}
+
+.texto a{
+    color: rgb(7, 7, 121);
+    font-family: Arial Unicode MS;
+    font-size: 100%;
+}

@@ -1,0 +1,20 @@
+:root{
+    --cor-base: #0f3574;
+    --cor-base-light: #485e82;
+    --cor-secundaria: #c80138;
+}
+
+.logo {
+    max-width: 170px;
+}
+
+/*produto*/
+.acompanha-produto ul.content {
+    border: none;
+    padding-left: 5px;
+    list-style-position: inside;
+}
+
+.acompanha-produto .content {
+    margin: 0;
+}
